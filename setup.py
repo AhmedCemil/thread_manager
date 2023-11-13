@@ -9,9 +9,5 @@ setup(
     author="Ahmed Cemil Bilgin",
     author_email="ahmed.c.bilgin@gmail.com",
     description="Thread Manager Library",
-    install_requires=[
-        'infi.systray',
-        'notify-py',
-        'pycaw',
-    ],
+    install_requires=[],
 )
