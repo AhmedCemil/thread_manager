@@ -2,6 +2,9 @@ import sys
 from threading import Thread, Event
 
 
+# Created by Ahmed Cemil Bilgin
+
+
 class ThreadManager:
     def __init__(self):
         self.initialize()
